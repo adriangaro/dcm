@@ -32,8 +32,8 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/jennis0/dcm",
-  "manifest": "https://raw.githubusercontent.com/jennis0/dcm/refs/heads/main/module.json",
-  "download": "https://raw.githubusercontent.com/jennis0/dcm/refs/heads/main/module.zip",
-  "changelog": "https://github.com/jennis0/dcm/blob/main/CHANGELOG.md"
+  "url": "https://github.com/adriangaro/dcm",
+  "manifest": "https://raw.githubusercontent.com/adriangaro/dcm/refs/heads/main/module.json",
+  "download": "https://raw.githubusercontent.com/adriangaro/dcm/refs/heads/main/module.zip",
+  "changelog": "https://github.com/adriangaro/dcm/blob/main/CHANGELOG.md"
 }
