@@ -21,7 +21,7 @@ jobs:
 
       # Save the zip file as an artifact
       - name: Upload ZIP artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: module.zip
           path: module.zip
